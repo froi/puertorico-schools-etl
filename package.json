@@ -1,0 +1,32 @@
+{
+  "name": "puertorico-schools-etl",
+  "version": "0.0.1",
+  "description": "Small example ETL that uses school data from Puerto Rico ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froi/puertorico-schools-etl.git"
+  },
+  "keywords": [
+    "etl",
+    "puerto-rico"
+  ],
+  "author": "Froilan Irizarry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/froi/puertorico-schools-etl/issues"
+  },
+  "homepage": "https://github.com/froi/puertorico-schools-etl#readme",
+  "dependencies": {
+    "elasticsearch": "^14.2.2",
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "mocha": "^5.0.5"
+  }
+}
