@@ -4,6 +4,7 @@
   "description": "Small example ETL that uses school data from Puerto Rico ",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
