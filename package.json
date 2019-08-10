@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/froi/puertorico-schools-etl#readme",
   "dependencies": {
-    "elasticsearch": "^14.2.2",
+    "elasticsearch": "^16.3.0",
     "node-fetch": "^2.1.2"
   },
   "devDependencies": {
